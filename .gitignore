@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Build output
+dist/
+.output/
+.vinxi/
+.aws-sam/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+secrets.toml
+samconfig.toml
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# System and IDE
+.DS_Store
+.idea/
+.vscode/
+*.sw?
