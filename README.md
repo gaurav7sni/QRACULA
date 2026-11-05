@@ -14,7 +14,7 @@
 
 ---
 
-## 🎃 About the Project
+##  About the Project
 
 QRACULA is a web-based QR code and URL security scanner designed to make everyday digital interactions safer.
 
@@ -24,7 +24,7 @@ QRACULA allows users to scan QR codes, extract URLs, and analyse links using thr
 
 Our goal is simple: encourage people to pause and check before trusting an unknown QR code or URL.
 
-## 🚀 Key Features
+##  Key Features
 
 - **QR Code Scanning:** Upload a QR code image and extract its embedded content.
 - **Live Camera Scanning:** Capture QR codes using your device camera where supported.
@@ -34,7 +34,7 @@ Our goal is simple: encourage people to pause and check before trusting an unkno
 - **Scan Results:** Displays security findings to help users make informed decisions.
 - **User-Friendly Interface:** A Halloween and Dracula-inspired interface designed for an engaging experience.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component | Technology |
 |---|---|
@@ -46,7 +46,7 @@ Our goal is simple: encourage people to pause and check before trusting an unkno
 | Threat Intelligence | VirusTotal API |
 | AI Integration | Google Gemini |
 
-## ⚙️ How QRACULA Works
+##  How QRACULA Works
 
 1. The user uploads a QR code, captures one using the camera, or enters a URL.
 2. QRACULA extracts the URL if the input is a QR code.
@@ -55,19 +55,19 @@ Our goal is simple: encourage people to pause and check before trusting an unkno
 5. Gemini AI helps explain the findings in understandable language.
 6. The results are presented to the user.
 
-## 🌐 Live Deployment
+##  Live Deployment
 
 **Website:** https://main.d25vl5n0l78jaw.amplifyapp.com/
 
 **GitHub Repository:** https://github.com/gaurav7sni/QRACULA
 
-## 🧑‍💻 Team
+##  Team
 
 **Team Name: VECTOR CORE**
 
 Built with curiosity, creativity, and a passion for cybersecurity.
 
-## 🔮 Future Scope
+##  Future Scope
 
 - Improved real-time mobile camera scanning.
 - Enhanced URL and phishing detection.
@@ -76,7 +76,7 @@ Built with curiosity, creativity, and a passion for cybersecurity.
 - Expanded AI-powered security explanations.
 - Browser security integration.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 QRACULA provides security insights based on available threat intelligence and analysis. A URL receiving zero detections does not guarantee that it is completely safe. Users should always exercise caution before opening unfamiliar links.
 
